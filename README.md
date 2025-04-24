@@ -1,5 +1,5 @@
 #### NAME: Prabha C
-#### Reg.No: 212222110032
+#### REG NO: 212222110032
 # EX 3 Uploading temperature sensor data in Thing Speak cloud
 
 # AIM:
