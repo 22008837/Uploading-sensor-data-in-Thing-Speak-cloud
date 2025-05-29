@@ -79,8 +79,8 @@ Automatically act on your data and communicate using third-party services like T
 #include"DHT.h"
 
 
-char id[]="OnePlus Nord 4";
-char pass[]="prabha25";
+char id[]="##";
+char pass[]="##";
 
 const int out=23;
 long T;
